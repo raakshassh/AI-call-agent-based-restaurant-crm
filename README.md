@@ -1,6 +1,6 @@
 AI Call Agent-Based Restaurant CRM
 
-Welcome to the AI Call Agent-Based Restaurant CRM — a smart solution for automating customer interactions and managing reservations. Designed for modern restaurants, this AI-powered agent streamlines call management, ensuring seamless customer service and efficient reservation handling.
+A Flask-based application that uses voice interactions to provide restaurant information and process reservations. The system integrates Twilio for voice calls, Gemini Flash for speech recognition and generation, and Google Calendar for managing reservations—all while logging interactions for future reference.
 
 Features
 
