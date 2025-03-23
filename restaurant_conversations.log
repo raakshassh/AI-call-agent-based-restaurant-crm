@@ -1,0 +1,8 @@
+User: I would like, I would like to make a reservation for Brent, assist, March at 7 p.m. for 9 people.
+Intent: reservation
+AI: Okay, I'd be happy to make a reservation for you. Let me confirm: You want a table for 9 people under the name Brent, assist on March 1st at 7:00 PM. Is that correct?
+
+User: You know, thank you.
+Intent: unknown
+AI: You're very welcome! Is there anything else I can help you with?
+
