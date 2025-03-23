@@ -21,9 +21,10 @@ Get started in just a few steps:
 
 1. Clone the Repository:
    git clone https://github.com/raakshassh/ai-call-agent-based-restaurant-crm.git
+   
    cd ai-call-agent-based-restaurant-crm
 
-2. Install Dependencies:
+3. Install Dependencies:
    pip install -r requirements.txt
 
 Configuration
